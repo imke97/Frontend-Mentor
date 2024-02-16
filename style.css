@@ -9,14 +9,14 @@
 h1 {
     margin-bottom: 20px;
     line-height: 140%;
-    font-size: 1.9em;
+    font-size: 1.4em;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
 
 p {
     line-height: 140%;
-    font-size: 1.3em;
+    font-size: 1em;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
@@ -60,7 +60,7 @@ body {
     color: hsl(228, 45%, 44%); 
 }
 
-@media (max-width: 500px) {
+@media (max-width: 400px) {
     .container {
         width: 75%;
     }
@@ -70,10 +70,10 @@ body {
     }
 
     h1 {
-        font-size: 1.5em;
+        font-size: 1.3em;
     }
     
     p {
-        font-size: 1.1em;
+        font-size: 0.9em;
     }
 }
